@@ -34,7 +34,7 @@ const ProjectContainer = () => {
         image: [userSm,userlg],
         alt: "User Entry Book",
         heading: "User Entry Book",
-        p1: "Here we have made a entry book to save to name, emial id of a person.",
+        p1: "Here we have made a entry book to save to name, email-id of a person.",
         l1: "https://github.com/faisalalim1/userentrybook.git",
         a1: "Github page for a User Entry Book Website.",
         l2: "https://userentrybook.herokuapp.com/",
