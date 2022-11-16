@@ -22,7 +22,7 @@ const NavSocial = ({ socialClass, socialIcons }) => {
         </li>
         <li className={`${styles[socialClass]}`}>
           <a
-            href="https://www.linkedin.com/in/mohammad-faisal-alim-65ab5b177/"
+            href="https://www.linkedin.com/in/faisalalim/"
             className="socialIcons"
             target="_blank"
             rel="noreferrer noopener"
